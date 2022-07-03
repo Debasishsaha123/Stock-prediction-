@@ -20,3 +20,10 @@ The first part chooses whether the information coming from the previous timestam
 These three parts of an LSTM cell are known as gates. The first part is called Forget gate, the second part is known as the Input gate and the last one is the Output gate.
 
 ![image](https://user-images.githubusercontent.com/100334542/177029952-15204877-3167-43e3-8b7b-7862c1156d12.png)
+
+
+Just like a simple RNN, an LSTM also has a hidden state where H(t-1) represents the hidden state of the previous timestamp and Ht is the hidden state of the current timestamp. In addition to that LSTM also have a cell state represented by C(t-1) and C(t) for previous and current timestamp respectively.
+
+Here the hidden state is known as Short term memory and the cell state is known as Long term memory. Refer to the following image.
+
+![image](https://user-images.githubusercontent.com/100334542/177030001-1fd48989-e390-4205-8843-3e0d6cd745e8.png)
