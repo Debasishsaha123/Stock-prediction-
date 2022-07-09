@@ -1,5 +1,8 @@
 # Google Stock-prediction
 
+![79cdc1d20925f876363126e17cfdcb20_w200](https://user-images.githubusercontent.com/100334542/178103256-63438174-5414-4e0a-bd2e-f532ca53c8a4.gif)
+
+
 ![image](https://user-images.githubusercontent.com/100334542/176998558-2e4df595-e5df-4c27-bd56-4f36ae11bc36.png)
 
 
