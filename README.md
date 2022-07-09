@@ -48,3 +48,7 @@ The dataset contains 6 columns associated with time series like the date and the
 
 ![image](https://user-images.githubusercontent.com/100334542/178118455-c4a59f9a-0fef-4647-a770-76759b7b4ebf.png)
 
+## Importing the Libaries
+
+As we all know, the first step is to import the libraries required to preprocess GOOGLE stock data and the other libraries required for constructing and visualizing the LSTM model outputs. We’ll be using the Keras library from the TensorFlow framework for this. All modules are imported from the Keras library.
+
