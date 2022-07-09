@@ -30,5 +30,7 @@ Here the hidden state is known as Short term memory and the cell state is known 
 
 ## Dataset
 
+https://github.com/Debasishsaha123/Stock-prediction-/blob/main/Google_Stock_Price_Train.csv
 
+The dataset contains 6 columns associated with time series like the date and the different variables like close, high, low and volume. We will use opening and closing values for our experimentation of time series with LSTM.
 
