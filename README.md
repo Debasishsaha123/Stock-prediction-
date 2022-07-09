@@ -52,3 +52,14 @@ The dataset contains 6 columns associated with time series like the date and the
 
 As we all know, the first step is to import the libraries required to preprocess GOOGLE stock data and the other libraries required for constructing and visualizing the LSTM model outputs. We’ll be using the Keras library from the TensorFlow framework for this. All modules are imported from the Keras library.
 
+1. NUMPY
+
+2.PANDAS
+
+3.MATPLOTLIB
+
+4.SkLearn
+
+5.KERAS--->(I)SEQUENTIAL
+
+           (II) DENSE,LSTM,DROPOUT
