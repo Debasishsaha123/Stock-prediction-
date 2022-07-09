@@ -40,4 +40,11 @@ The dataset contains 6 columns associated with time series like the date and the
 
 ![image](https://user-images.githubusercontent.com/100334542/178118353-5d975d4b-7fd6-45c6-8afe-bbbe8125e81b.png)
 
+### closing price and 30 day mean closing price
+
+![image](https://user-images.githubusercontent.com/100334542/178118428-20faa512-2511-4263-a3d7-07b419c69652.png)
+
+## High price
+
+![image](https://user-images.githubusercontent.com/100334542/178118455-c4a59f9a-0fef-4647-a770-76759b7b4ebf.png)
 
