@@ -52,7 +52,7 @@ The dataset contains 6 columns associated with time series like the date and the
 
 As we all know, the first step is to import the libraries required to preprocess GOOGLE stock data and the other libraries required for constructing and visualizing the LSTM model outputs. We’ll be using the Keras library from the TensorFlow framework for this. All modules are imported from the Keras library.
 
-1. NUMPY
+1.NUMPY
 
 2.PANDAS
 
@@ -60,6 +60,23 @@ As we all know, the first step is to import the libraries required to preprocess
 
 4.SkLearn
 
-5.KERAS--->(I)SEQUENTIAL
+5.KERAS--->(I)SEQUENTIAL,(II) DENSE,LSTM,DROPOUT
 
-           (II) DENSE,LSTM,DROPOUT
+### Setting the Target Variable and Selecting the Features
+
+We pick the features that serve as the independent variable to the target variable (dependent variable). We choose four characteristics to account for training purposes:
+
+Open
+
+High
+
+Low
+
+Volume
+
+## Building the LSTM Model for Stock Market Prediction
+
+In this step, we’ll build a Sequential Keras model with one LSTM layer. The LSTM layer has 50 units and is followed by one Dense Layer of one neuron.
+
+We compile the model using Adam Optimizer and the Mean Squared Error as the loss function. For an LSTM model, this is the most preferred combination.
+
