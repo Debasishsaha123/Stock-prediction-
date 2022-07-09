@@ -1,9 +1,7 @@
 # Google Stock-prediction
 
-![79cdc1d20925f876363126e17cfdcb20_w200](https://user-images.githubusercontent.com/100334542/178103256-63438174-5414-4e0a-bd2e-f532ca53c8a4.gif)
+![image](https://user-images.githubusercontent.com/100334542/178103364-2cb4360f-db8a-496e-9255-49ada8a5b171.png)
 
-
-![image](https://user-images.githubusercontent.com/100334542/176998558-2e4df595-e5df-4c27-bd56-4f36ae11bc36.png)
 
 
 In this project we will be looking at data from the stock market, particularly some technology stocks. We will learn how to use pandas to get stock information, visualize different aspects of it, and finally we will look at a few ways of analyzing the risk of a stock, based on its previous performance history. We will also be predicting future stock prices through a Long Short Term Memory (LSTM) method!
