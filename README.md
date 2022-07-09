@@ -1,6 +1,7 @@
 # Google Stock-prediction
 
-![image](https://user-images.githubusercontent.com/100334542/178103364-2cb4360f-db8a-496e-9255-49ada8a5b171.png)
+![BogusHandsomeGermanpinscher-size_restricted](https://user-images.githubusercontent.com/100334542/178103399-e7ed3f8d-c9bc-4d18-9ca1-05ad61afb144.gif)
+
 
 
 
