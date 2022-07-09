@@ -36,3 +36,8 @@ https://github.com/Debasishsaha123/Stock-prediction-/blob/main/Google_Stock_Pric
 
 The dataset contains 6 columns associated with time series like the date and the different variables like close, high, low and volume. We will use opening and closing values for our experimentation of time series with LSTM.
 
+### Opening price
+
+![image](https://user-images.githubusercontent.com/100334542/178118353-5d975d4b-7fd6-45c6-8afe-bbbe8125e81b.png)
+
+
