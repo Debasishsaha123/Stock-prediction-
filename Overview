@@ -3,10 +3,18 @@
 ![BogusHandsomeGermanpinscher-size_restricted](https://user-images.githubusercontent.com/100334542/178103399-e7ed3f8d-c9bc-4d18-9ca1-05ad61afb144.gif)
 
 
+Stock Price Prediction using machine learning helps you discover the future value of company stock and other financial assets traded on an exchange. The entire idea of predicting stock prices is to gain significant profits. Predicting how the stock market will perform is a hard task to do. There are other factors involved in the prediction, such as physical and psychological factors, rational and irrational behavior, and so on. All these factors combine to make share prices dynamic and volatile. This makes it very difficult to predict stock prices with high accuracy.  We will  predicting future stock prices through a Long Short Term Memory (LSTM) method!
 
 
-In this project we will be looking at data from the stock market, particularly some technology stocks. We will learn how to use pandas to get stock information, visualize different aspects of it, and finally we will look at a few ways of analyzing the risk of a stock, based on its previous performance history. We will also be predicting future stock prices through a Long Short Term Memory (LSTM) method!
+## Importance of Stock Market
 
+1.Stock markets help companies to raise capital.
+
+2.It helps generate personal wealth.
+
+3.Stock markets serve as an indicator of the state of the economy.
+
+4.It is a widely used source for people to invest money in companies with high growth potential.
 
 ## LSTM METHOD
 
