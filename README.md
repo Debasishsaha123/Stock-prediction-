@@ -89,29 +89,44 @@ In this step, we’ll build a Sequential Keras model with one LSTM layer. The LS
 We compile the model using Adam Optimizer and the Mean Squared Error as the loss function. For an LSTM model, this is the most preferred combination.
 
 Model: "sequential"
+
 _________________________________________________________________
+ 
  Layer (type)                Output Shape              Param #   
+ 
 =================================================================
  lstm (LSTM)                 (None, 100, 50)           10400     
+ 
                                                                  
  dropout (Dropout)           (None, 100, 50)           0         
+ 
                                                                  
  lstm_1 (LSTM)               (None, 100, 50)           20200     
                                                                  
+                                                                 
  dropout_1 (Dropout)         (None, 100, 50)           0         
+ 
                                                                  
  lstm_2 (LSTM)               (None, 100, 50)           20200     
+ 
                                                                  
  dropout_2 (Dropout)         (None, 100, 50)           0         
                                                                  
+                                                                 
  lstm_3 (LSTM)               (None, 50)                20200     
+ 
                                                                  
  dropout_3 (Dropout)         (None, 50)                0         
+                                                                 
                                                                  
  dense (Dense)               (None, 1)                 51        
                                                                  
 =================================================================
+
 Total params: 71,051
+
 Trainable params: 71,051
+
 Non-trainable params: 0
+
 _________________________________________________________________
