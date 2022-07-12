@@ -131,3 +131,7 @@ Trainable params: 71,051
 Non-trainable params: 0
 
 _________________________________________________________________
+
+Finally, now that we’ve projected the values for the test set, we can display the graph to compare both Adj Close’s true values and Adj Close’s predicted value using the LSTM Machine Learning model.
+
+
